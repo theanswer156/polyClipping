@@ -33,7 +33,8 @@
 
 #ifndef clipper_hpp
 #define clipper_hpp
-
+// vscode-program -- the second commit
+// vscode-program -- the third commit
 #define CLIPPER_VERSION "6.4.2"
 
 //use_int32: When enabled 32bit ints are used instead of 64bit ints. This
